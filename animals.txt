@@ -1,7 +1,4 @@
 test
 tang
-<<<<<<< HEAD
 chotiya
-=======
 teen
->>>>>>> my-first-branch
